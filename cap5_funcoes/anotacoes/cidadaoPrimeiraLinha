@@ -1,0 +1,5 @@
+
+
+- Uma função sempre retorna um valor. Se este não for especificado, irá retornar undefined. 
+- O bloco da função é obriatório
+- podemos atribuir uma função à uma constante. 

@@ -14,3 +14,4 @@
 
 O this pode ser referir ao window no contexto global. 
 exemplo:  (this === window) => true 
+
